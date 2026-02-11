@@ -36,8 +36,13 @@ The system is *instrumented* with:
    - Use the forward/reverse buttons in the lower left to step through iterations.  
    - Note changes in received power and BER display (eye diagram, Q factor, BER) with fiber length.
 ---
-## Result
+## TABULATION
 
+![WhatsApp Image 2026-02-11 at 10 39 33 AM](https://github.com/user-attachments/assets/e1b0716c-d0b5-4781-a595-64dad2a02880)
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/d2fef4cb-1864-4487-8b25-72f097ae55d5" />
+
+## Result
+Thus The introduction-to-Optiperformer is calculated and output is verified
 ---
 
 
